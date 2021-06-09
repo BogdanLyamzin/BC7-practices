@@ -1,0 +1,14 @@
+container {
+    display: flex;
+}
+.count {
+    margin: 0 10px;
+}
+
+.item {
+    font-size: 24px;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 3px;
+    cursor: pointer;
+}
