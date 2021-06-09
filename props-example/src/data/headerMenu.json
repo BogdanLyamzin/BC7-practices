@@ -1,0 +1,18 @@
+[
+  {
+    "href": "/",
+    "text": "Главная"
+  },
+  {
+    "href": "/about-us",
+    "text": "О нас"
+  },
+  {
+    "href": "/blog",
+    "text": "Блог"
+  },
+  {
+    "href": "/contacts",
+    "text": "Контакты"
+  }
+]
